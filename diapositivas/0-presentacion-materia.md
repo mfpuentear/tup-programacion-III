@@ -4,11 +4,6 @@ Presentación de la materia
 
 ---
 
-- **Docente**: Ing. De la Puente, Matias
-- **Clases**: Lunes y viernes de 18 a 21 hs (por Zoom)
-
----
-
 ## ¿Qué veremos?
 
 - Aplicaciones web simples con HTML, CSS y JavaScript

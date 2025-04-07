@@ -3,18 +3,22 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Presentación con Reveal.js y Mermaid.js</title>
+    <title>Presentación de la materia</title>
     <link
       rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/reveal.js@4/dist/reveal.css"
+      href="https://cdn.jsdelivr.net/npm/reveal.js@4.6.1/dist/reset.css"
     />
     <link
       rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/reveal.js@4/dist/theme/black.css"
+      href="https://cdn.jsdelivr.net/npm/reveal.js@4.6.1/dist/reveal.css"
     />
     <link
       rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/reveal.js@4/plugin/highlight/zenburn.css"
+      href="https://cdn.jsdelivr.net/npm/reveal.js@4.6.1/dist/theme/black.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/reveal.js@4.6.1/plugin/highlight/zenburn.css"
     />
     <link
       rel="stylesheet"
@@ -22,11 +26,11 @@
     />
     <link
       rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/reveal.js-plugins@latest/customcontrols/style.css"
+      href="https://cdn.jsdelivr.net/npm/reveal.js-plugins@4.2.5/customcontrols/style.css"
     />
     <link
       rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/reveal.js-plugins@latest/chalkboard/style.css"
+      href="https://cdn.jsdelivr.net/npm/reveal.js-plugins@4.2.5/chalkboard/style.css"
     />
   </head>
   <body>
@@ -36,16 +40,18 @@
       </div>
     </div>
 
-    <script src="https://cdn.jsdelivr.net/npm/reveal.js@4/dist/reveal.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/reveal.js@4/plugin/markdown/markdown.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/reveal.js@4/plugin/highlight/highlight.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.6.1/dist/reveal.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.6.1/plugin/markdown/markdown.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/reveal.js-plugins@latest/customcontrols/plugin.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/reveal.js-plugins@latest/chalkboard/plugin.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js-plugins@4.2.5/customcontrols/plugin.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js-plugins@4.2.5/chalkboard/plugin.js"></script>
 
     <script>
       Reveal.initialize({
+        controls: true,
+        progress: true,
+        center: true,
+        hash: true,
         customcontrols: {
           controls: [
             {
@@ -61,20 +67,7 @@
           ],
         },
         chalkboard: { theme: "whiteboard" },
-        plugins: [
-          RevealMarkdown,
-          RevealHighlight,
-          RevealChalkboard,
-          RevealCustomControls,
-        ],
-        hash: true,
-      });
-
-      mermaid.initialize({ theme: "dark", startOnLoad: true });
-
-      // Renderizar Mermaid después de que Reveal cargue una diapositiva
-      Reveal.on("slidechanged", () => {
-        mermaid.run();
+        plugins: [RevealMarkdown, RevealCustomControls, RevealChalkboard],
       });
     </script>
   </body>

@@ -1,2 +1,3 @@
 - [Presentación de la materia](/)
 - [Unidad 1: HTML, CSS y JavaScript](/1-html-css-js/index)
+- [Unidad 2: GIT](/2-git/index)

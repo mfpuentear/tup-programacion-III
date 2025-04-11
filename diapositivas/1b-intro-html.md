@@ -42,7 +42,7 @@ El párrafo de un texto es el contenido. Colocar ese contenido dentro de una eti
 
 ---
 
-![etiqueta html](/img/etiquetas-html.svg)
+![etiqueta html](img/etiquetas-html.svg)
 
 ---
 

@@ -25,15 +25,15 @@ que se pueda recuperar versiones específicas más adelante.
 
 ## VCS local
 
-<img alt="local" src="/img/2-local.png" width="50%" />
+<img alt="local" src="img/2-local.png" width="50%" />
 
 ## VCS centralizado
 
-<img alt="centralizado" src="/img/2-centralizado.png" width="50%" />
+<img alt="centralizado" src="img/2-centralizado.png" width="50%" />
 
 ## VCS distribuido
 
-<img alt="distribuido" src="/img/2-distribuido.png" width="50%" />
+<img alt="distribuido" src="img/2-distribuido.png" width="50%" />
 
 ## GIT
 
@@ -55,9 +55,9 @@ que se pueda recuperar versiones específicas más adelante.
 
 ## 1. Copias instantáneas, no diferencias
 
-<img alt="almacenamiento1" src="/img/2-almacenamiento1.png" />
+<img alt="almacenamiento1" src="img/2-almacenamiento1.png" />
 
-<img alt="almacenamiento2" src="/img/2-almacenamiento2.png" />
+<img alt="almacenamiento2" src="img/2-almacenamiento2.png" />
 
 ## 2. Operaciones locales
 
@@ -76,7 +76,7 @@ que se pueda recuperar versiones específicas más adelante.
 - Modificado (modified): se ha modificado el archivo pero todavía no se ha confirmado a la base de datos.
 - Preparado (staged): se ha marcado un archivo modificado en su versión actual para que vaya en la próxima confirmación.Estados (Flujo de trabajo)Comandos
 
-<img alt="areas" src="/img/2-areas.png" />
+<img alt="areas" src="img/2-areas.png" />
 
 ## Comandos
 
@@ -104,7 +104,7 @@ git status -s
 
 ## Ciclo de vida del estado de los archivos
 
-<img alt="ciclo-vida" src="/img/2-ciclo-vida.png" />
+<img alt="ciclo-vida" src="img/2-ciclo-vida.png" />
 
 ## Más comandos
 

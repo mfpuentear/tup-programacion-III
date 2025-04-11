@@ -31,7 +31,7 @@ El párrafo de un texto es el contenido. Colocar ese contenido dentro de una eti
 
 ## Etiqueta HTML
 
-<img alt="etiqueta HTML" src="/img/etiquetas-html.svg" />
+<img alt="etiqueta HTML" src="img/etiquetas-html.svg" />
 
 ## Anatomía de un elemento HTML
 

@@ -31,19 +31,19 @@ que se pueda recuperar versiones específicas más adelante.
 
 ## VCS local
 
-<img alt="local" src="img/2-local.png" width="50%" />
+<img alt="local" src="../img/2-local.png" width="50%" />
 
 ---
 
 ## VCS centralizado
 
-![centralizado](img/2-centralizado.png)
+![centralizado](../img/2-centralizado.png)
 
 ---
 
 ## VCS distribuido
 
-<img alt="distribuido" src="img/2-distribuido.png" width="45%" />
+<img alt="distribuido" src="../img/2-distribuido.png" width="45%" />
 
 ---
 
@@ -71,11 +71,11 @@ que se pueda recuperar versiones específicas más adelante.
 
 ## 1. Copias instantáneas, no diferencias
 
-![Almacenamiento 1](img/2-almacenamiento1.png)
+![Almacenamiento 1](../img/2-almacenamiento1.png)
 
 ---
 
-![Almacenamiento 2](img/2-almacenamiento2.png)
+![Almacenamiento 2](../img/2-almacenamiento2.png)
 
 ---
 
@@ -102,7 +102,7 @@ que se pueda recuperar versiones específicas más adelante.
 
 ---
 
-![Areas](img/2-areas.png)
+![Areas](../img/2-areas.png)
 
 ---
 
@@ -134,7 +134,7 @@ git status -s
 
 ## Ciclo de vida del estado de los archivos
 
-![Ciclo de vida de archivos](img/2-ciclo-vida.png)
+![Ciclo de vida de archivos](../img/2-ciclo-vida.png)
 
 ---
 

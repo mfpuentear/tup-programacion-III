@@ -1,7 +1,5 @@
 # Introducción a GIT
 
-<a href="diapositivas/2a-intro-git.html">ver diapositivas</a>
-
 ## ¿Qué es un sistema de control de versiones?
 
 Un VCS (sistema de control de versiones) es aquel que registra los cambios

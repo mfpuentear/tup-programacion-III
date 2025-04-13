@@ -1,7 +1,5 @@
 # Introducción a la web
 
-<a href="diapositivas/1a-intro-web.html">ver diapositivas</a>
-
 ## ¿Qué es la World Wide Web?
 
 ### Diagrama simplificado

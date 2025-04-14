@@ -31,7 +31,7 @@ que se pueda recuperar versiones específicas más adelante.
 
 ## VCS local
 
-<img alt="local" src="../img/2-local.png" width="50%" />
+<img alt="local" src="../img/2-local.png" width="45%" />
 
 ---
 
@@ -43,7 +43,7 @@ que se pueda recuperar versiones específicas más adelante.
 
 ## VCS distribuido
 
-<img alt="distribuido" src="../img/2-distribuido.png" width="45%" />
+<img alt="distribuido" src="../img/2-distribuido.png" width="30%" />
 
 ---
 

@@ -85,7 +85,7 @@ disponible (se extiende a la izquierda y a la derecha tanto como sea posible).
 
 Un elemento en línea no comienza en una nueva línea y solo ocupa el ancho necesario.
 
-<img alt="bloque-linea" src="../img/1-bloque-linea.png" width="70%" />
+<img alt="bloque-linea" src="img/1-bloque-linea.png" width="70%" />
 
 ## Elementos HTML de bloque y en línea
 

@@ -43,7 +43,6 @@ No se permiten entregas fuera de los plazos establecidos.
 - 25/04: Entrega del primer trabajo práctico
 - 23/05: Entrega del segundo trabajo práctico
 - 26/05: 1er parcial
-- 13/06: Entrega del tercer trabajo práctico
-- 30/06: Entrega del cuarto trabajo práctico
+- 27/06: Entrega del tercer trabajo práctico
 - 04/07: 2do parcial
 - 25/07: Recuperatorios

@@ -5,3 +5,4 @@
   - [Eventos](/4-react/3-eventos)
   - [Estados](/4-react/4-estados)
   - [Renderizado condicional](/4-react/5-renderizado-condicional)
+  - [Efectos secundarios y el hook `useEffect`](/4-react/6-efectos)
